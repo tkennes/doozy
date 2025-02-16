@@ -1,0 +1,9 @@
+baseURL: "https://help-find-doozy.nl"
+languageCode: "en-us"
+params:
+  title: "Help Us Find Doozy"
+  background: "#345282"
+  bootstrap: "5.3.3"
+markup:
+  highlight:
+    style: friendly
